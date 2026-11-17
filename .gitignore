@@ -1,0 +1,50 @@
+# Compiled Java
+*.class
+
+# macOS (note the casing: .DS_Store)
+.DS_Store
+.AppleDouble
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# BlueJ
+*.ctxt
+*.bluej
+doc/
+
+# NetBeans
+nbproject/private/
+
+# Replit
+.replit
+replit.nix
+.config/
+
+# Program output: students generate these, so they shouldn't be committed
+results.txt
+*_results.txt
+output/
+
+# Editor temp files
+*~
+*.swp
+
+#Answer Key
+TeacherKey_DNAProcessor.java
